@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\kabi\AndroidStudioProjects\SlidingMenu\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\4.2.42\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5f81129dfb3d02df80126512bc98278ed2bb40a">
+        <dex dex="C:\Users\kabi\AndroidStudioProjects\SlidingMenu\app\build\intermediates\pre-dexed\debug\classes-d94d5d88c31b9ef45257f08de1ea5f6471a250ca.jar" />
+    </item>
+    <item
+        jar="C:\Users\kabi\AndroidStudioProjects\SlidingMenu\app\libs\guava-18.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="C:\Users\kabi\AndroidStudioProjects\SlidingMenu\app\build\intermediates\pre-dexed\debug\guava-18.0-95e9ebd0f891f44702d62a26c61753420fc4bea5.jar" />
+    </item>
+    <item
+        jar="C:\Users\kabi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.0.1\support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd">
+        <dex dex="C:\Users\kabi\AndroidStudioProjects\SlidingMenu\app\build\intermediates\pre-dexed\debug\support-v4-19.0.1-c2ca0e9b3844003fd5f27906393c1d526af64836.jar" />
+    </item>
+
+</items>
